@@ -10,9 +10,9 @@ void escribe(float dt, float omg);
 
 int main(){
 	
-	Eulerex(1, 0.1);
-	Eulerex(0.1, 0.1);
-	Eulerex(10, 0.1);
+	escribe(1, 0.1);
+	escribe(0.1, 0.1);
+	escribe(10, 0.1);
     
     return 0;
 }
